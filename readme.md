@@ -13,7 +13,7 @@ Here is a Red River Gorge brief overview.
 3. Red River Gorge is home to 3 endangered animals, the Indiana Bat, the Virginia Big-eared Bat, and the Red Cockaded Woodpecker!
 
 <!-- Link to web page -->
-[Red River Gorge Small map of Red River Gorge](https://www.redrivergorgecabinrentals.com/resort-maps/thumbnail_1_rrgcr-area-map-2016.png)
+[Red River Gorge Scenic Byway Map (PDF)](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5288706.pdf)
 
 <!-- Display PNG image from a different server. Notice the exclamation mark ! -->
 ![Natural Bridge](https://www.outdoorproject.com/sites/default/files/styles/odp_header_adaptive/public/features/nb1.jpg)   
